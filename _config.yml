@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title:自己紹介
+description: sakumaについて説明します
+github:
+  is_project_page:false
